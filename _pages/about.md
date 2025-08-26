@@ -1,9 +1,11 @@
 ---
+layout: single
+title: "Hello, I'm Bingyu Zhang"
 permalink: /
-title: "Hello World!"
 author_profile: true
 author:
-  avatar: profile.png
+  name: "Bingyu Zhang (张冰玉)"
+  avatar: /images/IMG_3155.jpg   # 你刚才能直接打开的那个路径
 redirect_from: 
   - /about/
   - /about.html
