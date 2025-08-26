@@ -1,14 +1,13 @@
 ---
 layout: single
-title: "Hello, I'm Bingyu Zhang"
+title: "Hello world!"
 permalink: /
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am bingyu 
-wawawawaw
+I’m a second-year PhD student in Electrical & Computer Engineering at Duke, supervised by Prof. Tania Roy. My research explores emerging semiconductor device design and reliability physics. Beyond the lab, I read and travel to feel the world. 
 
 A data-driven personal website
 ======
