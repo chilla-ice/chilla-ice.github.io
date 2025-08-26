@@ -3,9 +3,6 @@ layout: single
 title: "Hello, I'm Bingyu Zhang"
 permalink: /
 author_profile: true
-author:
-  name: "Bingyu Zhang (张冰玉)"
-  avatar: IMG_3155.jpg   
 redirect_from: 
   - /about/
   - /about.html
