@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 I am bingyu 
-hahahaa
+wawawawaw
 
 A data-driven personal website
 ======
