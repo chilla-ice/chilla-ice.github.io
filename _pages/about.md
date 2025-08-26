@@ -2,6 +2,8 @@
 permalink: /
 title: "Hello World!"
 author_profile: true
+author:
+  avatar: /images/IMG_3155.jpg
 redirect_from: 
   - /about/
   - /about.html
