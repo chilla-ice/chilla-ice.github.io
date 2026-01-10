@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Hello world!"
+title: "Hello!"
 permalink: /
 author_profile: true
 redirect_from: 
