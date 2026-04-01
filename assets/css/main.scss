@@ -42,42 +42,41 @@
     "vendor/font-awesome/brands"
 ;
 body {
-  background: #fff7f9; /* very light pink */
+  background: #f5f8ff;  /* very light blue */
 }
 .pub-card-wrapper {
   margin-bottom: 1.5rem;
 }
 
 .pub-card {
-  background: linear-gradient(135deg, #fff0f4, #ffe4ec);
-  border-radius: 18px;
+  background: #ffffff;
+  border-radius: 16px;
   padding: 1.4rem 1.5rem;
   margin-bottom: 1.6rem;
 
-  border: 1px solid rgba(255, 180, 200, 0.4);
+  border: 1px solid #e0e7ff;
 
   box-shadow: 
-    0 6px 20px rgba(255, 160, 180, 0.15),
-    0 2px 6px rgba(0,0,0,0.04);
+    0 4px 12px rgba(0, 0, 80, 0.06),
+    0 1px 3px rgba(0,0,0,0.04);
 
   transition: all 0.2s ease;
 }
 
 .pub-card:hover {
-  transform: translateY(-4px);
+  transform: translateY(-3px);
   box-shadow: 
-    0 10px 30px rgba(255, 140, 170, 0.22),
-    0 4px 10px rgba(0,0,0,0.05);
+    0 8px 20px rgba(0, 0, 100, 0.10),
+    0 2px 6px rgba(0,0,0,0.05);
 }
 
 .pub-title a {
-  color: #111827;
+  color: #1e3a8a;  /* deep blue */
   text-decoration: none;
 }
 
 .pub-title a:hover {
-  color: #2563eb;
-  text-decoration: none;
+  color: #2563eb;  /* brighter blue */
 }
 
 .pub-authors {
