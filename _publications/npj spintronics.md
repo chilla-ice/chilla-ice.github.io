@@ -1,7 +1,7 @@
 ---
 title: "2D magnetic heterostructures: Spintronics and quantum future"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 date: 2024-02-17
 venue: 'npj spintronics'
