@@ -39,7 +39,7 @@
       <p class="pub-authors">{{ post.authors }}</p>
     {% endif %}
 
-    {% if post.collection == 'teaching' %}
+    <!-- {% if post.collection == 'teaching' %}
       <p class="pub-meta">{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
     {% elsif post.date %}
       <p class="pub-meta">
@@ -48,7 +48,7 @@
           {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}
         </time>
       </p>
-    {% endif %}
+    {% endif %} -->
 
     {% if post.excerpt and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt pub-excerpt" itemprop="description">
