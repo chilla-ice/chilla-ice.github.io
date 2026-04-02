@@ -8,9 +8,4 @@ venue: "npj spintronics"
 authors: "B Zhang, P Lu, R Tabrizian, PXL Feng, Y Wu"
 link: "https://www.nature.com/articles/s44306-024-00011-w"
 paperurl: "https://www.nature.com/articles/s44306-024-00011-w"
-slidesurl: ""
-bibtexurl: ""
-citation: ""
 ---
-<!-- citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf' -->
