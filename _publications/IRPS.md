@@ -7,5 +7,4 @@ date: 2026-03-01
 venue: " IEEE International Reliability Physics Symposium (IRPS)"
 authors: "<strong>B Zhang</strong>, P Lu, R Tabrizian, PXL Feng, Y Wu"
 link: "https://www.irps.org/highlighted-papers"
-paperurl: "https://www.nature.com/articles/s44306-024-00011-w"
 ---
