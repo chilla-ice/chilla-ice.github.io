@@ -63,7 +63,9 @@
 
     <div class="pub-tags">
       {% if post.venue %}
-        <span class="pub-tag venue-tag">{{ post.venue }}</span>
+    <span class="pub-tag venue-tag {% if post.venue_type == 'journal' %}journal-tag{% else %}conference-tag{% endif %}">
+      {{ post.venue }}
+    </span>
       {% endif %}
 
       {% if post.paperurl %}
