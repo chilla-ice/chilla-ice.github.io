@@ -352,33 +352,33 @@ body {
 
 /* ===== Publication title ===== */
 .pub-title {
-  margin-bottom: 0.7rem;
-  font-size: 1.56rem;
-  font-weight: 780;
-  line-height: 1.3;
-  letter-spacing: -0.25px;
+  margin-bottom: 0.6rem;
+  font-size: 1.28rem; 
+  font-weight: 700;     
+  line-height: 1.35;
+  letter-spacing: -0.15px;
 }
 
 .pub-title a {
-  color: #3347ad;
+  color: #3b4bb3;
   text-decoration: none;
 }
 
 .pub-title a:hover {
-  color: #4a5fe0;
+  color: #5b6ee1;
 }
 
 /* ===== Authors ===== */
 .pub-authors {
-  margin: 0 0 0.55rem 0;
-  font-size: 1.02rem;
-  line-height: 1.75;
+  margin: 0 0 0.45rem 0;
+  font-size: 0.96rem;
+  line-height: 1.7;
   color: #5f6b85;
 }
 
 .pub-authors strong {
   color: #2d3b5f;
-  font-weight: 800;
+  font-weight: 750;
 }
 
 /* ===== Meta / excerpt ===== */
@@ -424,20 +424,13 @@ body {
 /* ===== Venue tags ===== */
 /* Conference = purple */
 .venue-tag.conference-tag {
-  background: #f1eeff;
-  color: #5a4fcf;
-  border: 1px solid #e1dbff;
-  font-size: 1rem;
-  font-weight: 700;
+  font-size: 0.92rem;
+  font-weight: 650;
 }
 
-/* Journal = pink */
 .venue-tag.journal-tag {
-  background: #fff1f7;
-  color: #c05c8d;
-  border: 1px solid #ffdceb;
-  font-size: 1rem;
-  font-weight: 700;
+  font-size: 0.92rem;
+  font-weight: 650;
 }
 
 /* ===== Other tags ===== */
