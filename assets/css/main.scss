@@ -374,4 +374,92 @@ textarea {
 
 
 
+/* =========================================
+   FINAL SIZE TUNING (ADD THIS AT VERY END)
+========================================= */
+
+/* ===== Main titles ===== */
+.page__content h1,
+.page__title {
+  font-size: 2.2rem;   /* ↓ 从 2.5 降 */
+  font-weight: 600;
+}
+
+.page__content h2,
+.archive__subtitle {
+  font-size: 1.7rem;   /* ↓ 从 2.0 降 */
+  font-weight: 650;
+}
+
+/* ===== Intro paragraph ===== */
+.page__content p {
+  font-size: 1.02rem;   /* ↓ 更舒服 */
+  line-height: 1.8;
+}
+
+/* ===== Sidebar name ===== */
+.author__name,
+.sidebar .author__name,
+.author__content h3 {
+  font-size: 1.45rem;   /* ↓ 更精致 */
+  font-weight: 600;
+}
+
+/* ===== Publication card ===== */
+.pub-card {
+  padding: 0.9rem 1.3rem;   /* ↓ 紧凑一点 */
+}
+
+/* ===== Publication title (MOST IMPORTANT) ===== */
+.pub-title {
+  font-size: 1.18rem !important;   /* ↓ 核心：从 1.4 → 1.18 */
+  font-weight: 600;
+  line-height: 1.35;
+  letter-spacing: -0.1px;
+}
+
+.pub-title a {
+  color: #3b4bb3;
+}
+
+.pub-title a:hover {
+  color: #5b6ee1;
+}
+
+/* ===== Authors ===== */
+.pub-authors {
+  font-size: 0.9rem;   /* ↓ 更轻 */
+  line-height: 1.65;
+  color: #5f6b85;
+}
+
+.pub-authors strong {
+  font-weight: 700;
+}
+
+/* ===== Meta ===== */
+.pub-meta {
+  font-size: 0.82rem;
+}
+
+/* ===== Tags ===== */
+.pub-tag {
+  font-size: 0.78rem;
+  padding: 0.3rem 0.7rem;
+}
+
+/* ===== Venue ===== */
+.venue-tag.conference-tag,
+.venue-tag.journal-tag {
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+/* ===== Reduce global text heaviness ===== */
+body {
+  font-size: 15.5px;   /* subtle global control */
+}
+
+
+
 
