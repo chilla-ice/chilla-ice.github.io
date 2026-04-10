@@ -302,7 +302,7 @@ body {
 }
 
 /* Decorative underline for section titles */
-.page__content h2::after,
+.page__content > h2::after,
 .archive__subtitle::after {
   content: "";
   display: block;
