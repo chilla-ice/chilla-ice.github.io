@@ -43,8 +43,12 @@
 ;
 
 /* ===== Page background (soft blue) ===== */
-.body {
-  background: #f4f7ff;
+body {
+  background: linear-gradient(
+    180deg,
+    #f4f7ff 0%,
+    #eef2ff 100%
+  );
 }
 
 /* ===== Card ===== */
