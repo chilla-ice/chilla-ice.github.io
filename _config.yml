@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IMG_3155.jpg"
-  name             : "Bingyu Zhang 张冰玉"
+  name             : "Bingyu Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Life is too important to be taken seriously"
+  bio              : 
   # location         : "Earth"
   employer         : "Duke University"
   # uri              : # URL
