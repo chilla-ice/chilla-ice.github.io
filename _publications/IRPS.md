@@ -6,6 +6,6 @@ permalink: /publication/2d-magnetic-heterostructures/
 date: 2026-03-01
 venue: " IEEE International Reliability Physics Symposium (IRPS)"
 venue_type: conference
-authors: "<strong>B Zhang</strong>, P Lu, R Tabrizian, PXL Feng, Y Wu"
+authors: "<strong>B Zhang</strong>, X Zhao, D Cornigli, J Song, Y Du, MA Villena,..."
 link: "https://ieeexplore.ieee.org/abstract/document/11499326"
 ---
